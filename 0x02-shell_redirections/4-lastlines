@@ -1,2 +1,2 @@
 #!/bin/bas
-tail cat etc/passwd
+tail etc/passwd
